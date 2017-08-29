@@ -1,0 +1,33 @@
+    .container {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .col-lg-8 {
+        padding: 15px;
+    }
+
+    #searchbox {
+        float: left;
+    }
+
+    .fancy-btns {
+        background-color: #000;
+        color: #fff;
+        margin: 5px;
+        padding-bottom: 10px;
+    }
+
+    .fancy-btns:focus {
+        background-color: #fff;
+        color: #000;
+        outline-color: #fff;
+        border-bottom: 1px #555 solid;
+    }
+
+    .image {
+        display: inline;
+        float: left;
+        margin: 2px;
+        overflow: hidden;
+    }
